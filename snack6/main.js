@@ -5,5 +5,5 @@ let i = 0;
 while (result < 1000) {
     console.log(result);
     i++;
-    result = 2 ** i;
+    result = number ** i;
 }
